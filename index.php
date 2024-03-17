@@ -69,7 +69,7 @@ session_start();
 <h1 class="center">SHOP NOW</h1>
 <div align="center">
     <div class="d-flex justify-content-center">
-                <a href="homepage.php"><button class="btn btn-outline-success me-2" type="button">HOME</button></a>
+                <a href="index.php"><button class="btn btn-outline-success me-2" type="button">HOME</button></a>
                 <a href="men.php"> <button class="btn btn-outline-success me-2" type="button">MEN</button></a>
                 <a href="women.php"><button class="btn btn-outline-success me-2" type="button">WOMEN</button></a>
                 <a href="cart.php"><button class="btn btn-outline-success me-2" type="button">CART</button></a>
