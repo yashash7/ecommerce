@@ -89,7 +89,7 @@ button:hover {
 <?php
 require("database.php");
 if (isset($_SESSION['username'])) {
-    header('location: homepage.php');
+    header('location: index.php');
 }
 ?>
     <div class="container">
